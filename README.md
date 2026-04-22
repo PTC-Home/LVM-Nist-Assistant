@@ -8,11 +8,11 @@
 ## 📂 Project Structure
 [cite_start]This repository is organized into modular folders to serve as a repeatable template for automated compliance auditing[cite: 187, 188, 266].
 
-* [cite_start]**[/infrastructure](./infrastructure):** Documentation for the hardware and virtual "fortress"[cite: 249, 267].
-* [cite_start]**[/setup](./setup):** Technical foundation for building the inference engine[cite: 271].
-* [cite_start]**[/knowledge-base](./knowledge-base):** The assistant's "Brains," featuring NIST standards and Regex libraries[cite: 275, 276, 278].
-* [cite_start]**[/prompts](./prompts):** Instruction sets and "Personas" for communication[cite: 279, 280].
-* [cite_start]**[/reports](./reports):** Output gallery and standardized audit templates[cite: 282].
+* [cite_start]**[/infrastructure](./Infrastructure):** Documentation for the hardware and virtual "fortress"[cite: 249, 267].
+* [cite_start]**[/setup](./Setup):** Technical foundation for building the inference engine[cite: 271].
+* [cite_start]**[/knowledge-base](./Knowledge-Base):** The assistant's "Brains," featuring NIST standards and Regex libraries[cite: 275, 276, 278].
+* [cite_start]**[/prompts](./Prompts):** Instruction sets and "Personas" for communication[cite: 279, 280].
+* [cite_start]**[/reports](./Reports):** Output gallery and standardized audit templates[cite: 282].
 
 ## 🚀 Monday "Zero Hour" Checklist
 - [ ] [cite_start]Provision Ubuntu VM with 8B model specs[cite: 284, 303].
