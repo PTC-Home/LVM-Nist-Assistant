@@ -29,7 +29,10 @@
 
 > **How to find info:** List the hardware (Legion 5), the OS (Ubuntu), and the specific tools used (Wazuh, AI Assistant, Nmap).
 
-* **Scope:** * **Tools Used:** ---
+* **Scope:**
+* **Tools Used:**
+
+---
 
 ## 3. Findings & NIST Control Mapping
 > **What this is for:** The meat of the report. It maps technical "bad things" to specific federal standards.
