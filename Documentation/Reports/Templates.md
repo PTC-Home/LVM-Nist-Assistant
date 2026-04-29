@@ -1,12 +1,24 @@
-# Audit Report Template
+# NIST Compliance Audit: [System/Project Name]
+**Date:** [YYYY-MM-DD] | **Auditor Persona:** Senior NIST Compliance Specialist
 
-## 1. Executive Summary (Tech-Savvy Lite)
-[cite_start][AI-generated summary of findings focused on business risk][cite: 93, 198, 332].
+## 📋 Executive Summary
+[AI-generated high-level summary of the security posture and total compliance score].
 
-## 2. NIST Control Mapping
+> [!TIP]
+> **Security Outcome:** [AI describes a positive technical achievement, such as successful MFA implementation or active File Integrity Monitoring].
+
+## ⚠️ Critical Findings & Mitigations
+
+> [!CAUTION]
+> **NIST Mitigation Requirement:** [AI flags a high-severity vulnerability, such as an exposed attack surface, and maps it to a specific NIST Protect (PR) function].
+
+> [!WARNING]
+> **Universal Compliance Requirement:** [AI highlights policy-level issues like "Privilege Creep" or administrative bypasses that must apply to all organizational levels].
+
+## 🔍 NIST Control Mapping
 | Technical Finding | NIST Control ID | Compliance Status |
 | :--- | :--- | :--- |
-| [Finding] | [e.g., AC-2] | [cite_start][Pass/Fail/Gap][cite: 91, 157, 360]. |
+| [Finding description] | [e.g., AC-2] | 🔴 Gap / 🟢 Pass |
 
-## 3. Recommended Remediation
-[Steps to resolve the identified gap].
+## 🛠️ Remediation Roadmap
+1. [Step-by-step technical instructions to resolve the identified gaps].
