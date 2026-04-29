@@ -1,5 +1,6 @@
 
 # A general overview on reports used in Cybersecurity Industry to use as practice.
+### Some parts of the report may not be used in a regular industry standard report.
 
 
 ---
