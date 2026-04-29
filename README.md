@@ -1,7 +1,5 @@
 # LVM-Nist-Assistant
 
-# LVM-Nist-Assistant
-
 ## 🛡️ The Privacy Shield
 [cite_start]**CRITICAL:** This project is a self-hosted, private solution for sensitive NIST audit data[cite: 119, 142, 264]. [cite_start]To maintain data integrity and security, all operations, log analysis, and report generation must occur within this isolated Virtual Machine (VM) to prevent leaking internal vulnerability data to third-party providers[cite: 138, 202, 265].
 
