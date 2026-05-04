@@ -43,3 +43,23 @@ Find the `<syscheck>` section and add this specific entry:
 </syscheck>
 ```
 
+---
+
+## NIST Compliance Callouts
+
+> [!Tip]
+> **Positive Security Outcome:** Real-time FIM satisfies **NIST SI-7**, which requires software and information integrity. This proves to auditors that your "Logic Base" is a trusted source of truth.
+
+>[!Caution]
+> **Unauthorized Modification:** If you receive a Wazuh Alert Level 7+ for a file deletion in the Knowledge Base, treat it as a "Brain Contamination" event. Roll back the file using your GitHub "Save Game" history immediately.
+
+---
+
+## Verification Checklist
+
+[ ] Agent status is "Active" in the Wazuh Dashboard.
+
+[ ] A test file created in `/Knowledge-Base triggers` a "New file added" alert.
+
+[ ] Modification of `NIST-Logic-Base.md` triggers a "File modified" alert.
+
